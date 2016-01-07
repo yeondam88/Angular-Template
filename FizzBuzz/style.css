@@ -1,0 +1,17 @@
+/* Styles go here */
+
+body {
+  margin-left: 10px;
+}
+
+h1 {
+  text-align: center;
+  border: 1px solid #000;
+  width: 50%;
+  margin: 15px auto;
+}
+
+.fizzbuzz {
+  color: firebrick;
+  font-style: italic;
+}
